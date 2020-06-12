@@ -11,13 +11,13 @@ div #wall #tag-3.slick.wicked {
 #wall .parent #tag-4 {
   display:none;
 }
- body div #wall div.parent div #tag-5.slick {
+ body div #wall div .parent div #tag-5.slick {
   display:none;
 }
-body div #wall div.parent div > div > #tag-6 {
+body div #wall div .parent div > div > #tag-6 {
   display:none;
 }
-body div #wall div.parent div > div > #tag-7.slick {
+body div #wall div .parent div > div > #tag-7.slick {
   display:none;
 }
 
